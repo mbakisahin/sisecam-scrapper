@@ -1,0 +1,38 @@
+Name: echaWebScraping.py
+Link: https://echa.europa.eu/home
+Limited page number: 20
+Keywords:
+Environment
+Water
+Wastewater
+Air emission
+Waste disposal
+substance very high concern (SVHC)
+REACH
+KKDİK
+
+Name: eur_lexWebScraping.py
+Link: https://eur-lex.europa.eu/homepage.html
+Limited page number: 20
+Keywords:
+Environment
+Water
+Wastewater
+Air emission
+Waste disposal
+substance very high concern (SVHC)
+REACH
+KKDİK
+
+Name: resmiWebScraping.py
+Link: https://www.resmigazete.gov.tr/
+Limited page number: 5
+Keywords:
+Çevre
+Su
+Atıksu
+Hava emisyonu
+Atık bertarafı
+Yüksek önem arz eden maddeler (SVHC)
+REACH
+KKDİK
